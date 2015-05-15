@@ -1,3 +1,9 @@
+# Davis McCarthy's Homepage on GitHub
+
+Does what it says on the tin.
+
+DJM, May 2015
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -54,7 +60,6 @@ Review existing pull requests against plusjake/jekyll-bootstrap:master. Merge or
 
 ## Contributing
 
-
 To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
 This is very important as it allows me to accept your pull request without having to publish a public version release.
 
@@ -76,3 +81,4 @@ The documentation website at <http://jekyllbootstrap.com> is maintained at https
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
